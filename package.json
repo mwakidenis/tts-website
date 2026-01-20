@@ -1,9 +1,9 @@
 {
-  "name": "tts-thangaraso",
+  "name": "tts-victory",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://ebe-nezer.github.io/tts-victory-template",
+  "homepage": "https://ebe-nezer.github.io/tts-vistory",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
