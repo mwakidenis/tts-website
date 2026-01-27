@@ -15,7 +15,6 @@ const Layout = () => {
     const location = useLocation();
 
     useEffect(() => {
-        // Basic analytics logging
         console.log(`[Analytics] Page View: ${location.pathname}`);
     }, [location]);
 
