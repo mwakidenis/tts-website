@@ -1,7 +1,12 @@
 import React, { useEffect } from 'react';
 import { HashRouter, Routes, Route, Outlet, useLocation } from 'react-router-dom';
+ mwakidenis-patch-5
 import Header from './components/Header'; 
 import Footer from './components/Footer';
+
+import Header from './components/Header';
+import Footer from './components/Footer'; 
+ master
 import Home from './pages/Home';
 import About from './pages/About';
 import Services from './pages/Services';
