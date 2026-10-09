@@ -1,7 +1,7 @@
 import { NavLink, StatItem, CompetencyItem, ServiceItem, ProjectItem, PolicyItem, ContactInfo, JobItem, BenefitItem, TestimonialItem } from './types';
 
 export const NAV_LINKS: NavLink[] = [
-    { name: 'Home', path: '/' },
+    { name: 'Home', path: '/' }, 
     { name: 'About Us', path: '/about' },
     { name: 'Services', path: '/services' },
     { name: 'Project Track', path: '/projects' },
